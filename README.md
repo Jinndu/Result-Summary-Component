@@ -31,8 +31,8 @@ Users should be able to:
 
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Jinndu/Result-Summary-Component
+- Live Site URL: https://jinndu.github.io/Result-Summary-Component/
 
 
 
@@ -53,8 +53,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@jindu](https://www.frontendmentor.io/profile/jindu)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Jinndu](https://www.jinndu.github.io/Result-Summary-Component/)
+- Frontend Mentor - [@Jinndu](https://www.frontendmentor.io/profile/Jinndu)
+- Twitter - [@Angelobliss05](https://www.twitter.com/AngeloBliss05)
 
 
